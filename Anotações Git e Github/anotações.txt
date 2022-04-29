@@ -1,0 +1,13 @@
+O link de download do Git: https://git-scm.com/downloads
+
+O comando Git Init inicia um repositório.
+
+O comando Git add coloca as alterações de arquivo numa área de preparação para um commit.
+
+O comando Git commit salva as alterações do arquivo, deixando sempre a versão mais recente do seu código.
+
+O comando Git push empurra as alterações dentro de um commit para um repositório remoto.
+
+O comando Git pull pega a versão mais recente do código presente no repositório remoto.
+
+O comando Git clone cria uma cópia do repositório no servidor remoto e salva na sua máquina.
